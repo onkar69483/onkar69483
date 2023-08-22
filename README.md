@@ -3,6 +3,7 @@
 <h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. Along with my degree, I also work on Electronics Projects. I am a big time Electronics Enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar69483&label=Profile%20views&color=0e75b6&style=flat" alt="onkar69483" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -20,6 +21,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" 
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" ></a>
+
                                
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar69483&" alt="onkar69483" /></p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar69483&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Onkar's github stats" /></a> | <a href="https://github.com/onkar69483/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar69483&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
