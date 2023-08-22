@@ -1,18 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Onkar Mendhapurkar</h1>
-<h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. Along with my degree, I also work on Electronics Projects. I am a big time Electronics Enthusiast!</h3>
+<h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. I'm passionate about making DIY Projects and am very interested in Electronics too!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar69483&label=Profile%20views&color=0e75b6&style=flat" alt="onkar69483" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking to collaborate on **Web Development and Electronics Projects**
-
-- 🤝 I’m looking for help with **finding an internship and a mentor in this field.**
-
-- 📫 How to reach me **message me on [Linkedin](https://www.linkedin.com/in/aditya-rane-802098140/)**
+- 📫 How to reach me **message me on [Linkedin](https://www.linkedin.com/in/onkarmendhapurkar/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
