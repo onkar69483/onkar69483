@@ -1,11 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Onkar Mendhapurkar</h1>
-<h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. I'm passionate about making DIY Projects and am very interested in Electronics too!</h3>
+<h3 align="center">👋 Welcome to my GitHub haven! I'm a Computer Science undergrad at SIT Pune with an insatiable curiosity for all things tech. Whether I'm knee-deep in lines of code or elbow-deep in circuitry, I'm in my element.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar69483&label=Profile%20views&color=0e75b6&style=flat" alt="onkar69483" /> </p>
 
-- 📫 How to reach me **message me on [Linkedin](https://www.linkedin.com/in/onkarmendhapurkar/)**
+- 🎓 Second-year CS student at SIT Pune
+
+- 💻 Exploring full-stack development
+  
+- 🛠️ DIY projects and electronics enthusiast
+  
+- 🌐 Turning ideas into code and circuits
+  
+- 📚 Learning and growing every day
+  
+- 📫 How to reach me - **message me on [Linkedin](https://www.linkedin.com/in/onkarmendhapurkar/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
