@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar69483&label=Profile%20views&color=0e75b6&style=flat" alt="onkar69483" /> </p>
 
-- Visit my Portolio https://onkar69483.github.io/Portfolio/
+-  Visit my Portolio https://onkar69483.github.io/Portfolio/
 
 - 🎓 Second-year CS student at SIT Pune
 
