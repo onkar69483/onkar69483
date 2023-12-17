@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1> ◎==||::::::::::::><h3></h3><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </summary>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">👋 Welcome to my GitHub haven! I'm a Computer Science undergrad at SIT Pune with an insatiable curiosity for all things tech. Whether I'm knee-deep in lines of code or elbow-deep in circuitry, I'm in my element.</h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Welcome to my GitHub haven! I'm a Computer Science undergrad at SIT Pune with an insatiable curiosity for all things tech. Whether I'm knee-deep in lines of code or elbow-deep in circuitry, I'm in my element.</h2></summary>
   </ul>
 </div>
 
@@ -44,6 +44,7 @@
 
 
 <!--- stats & Trophy (start) -->
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -80,7 +81,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -95,7 +96,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></h2></summary>
   </ul>
 </div>
 
