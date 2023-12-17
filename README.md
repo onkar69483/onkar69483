@@ -1,15 +1,31 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/onkar69483/count.svg" />
-</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Onkar Mendhapurkar</h1>
-<h3 align="center">👋 Welcome to my GitHub haven! I'm a Computer Science undergrad at SIT Pune with an insatiable curiosity for all things tech. Whether I'm knee-deep in lines of code or elbow-deep in circuitry, I'm in my element.</h3>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1></summary>
+  </ul>
+</div>
 
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">👋 Welcome to my GitHub haven! I'm a Computer Science undergrad at SIT Pune with an insatiable curiosity for all things tech. Whether I'm knee-deep in lines of code or elbow-deep in circuitry, I'm in my element.</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
 -  Visit my Portolio website https://onkar69483.github.io/Portfolio/ brought to life by [Sachin Mhetre](https://github.com/Sachin-Mhetre) 
 
 - 🎓 Second-year CS student at SIT Pune
@@ -21,45 +37,85 @@
 - 🌐 Turning ideas into code and circuits
   
 - 📚 Learning and growing every day
-  
-- 📫 How to reach me - **message me on [Linkedin](https://www.linkedin.com/in/onkarmendhapurkar/)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/onkarmendhapurkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onkarmendhapurkar/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/onkar.mendhapurkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/onkar.mendhapurkar/" height="30" width="40" /></a>
+- 📫 Feel free to reach me out **[Linkedin](https://www.linkedin.com/in/onkarmendhapurkar/)**
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=onkar69483&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar69483&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=onkar69483&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=onkar69483&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,md,html,css,github,linux,py,arduino,vscode&perline=14" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" ></a>
 
-<div align="center" >
-<a  href="https://github.com/onkar69483">
-
-<img src="https://raw.githubusercontent.com/onkar69483/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/onkar69483/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/onkar69483/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-  
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/onkar69483/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-  
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/onkarmendhapurkar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/itsme_onkar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/onkar.mendhapurkar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/1040666942693974116" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=onkar69483&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
