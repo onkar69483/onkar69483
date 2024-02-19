@@ -3,18 +3,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
+<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1> ◎==||::::::::::::><h3></h3><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1></summary>
+    <div style="text-align: center;">
+      <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture>
+    </div>
   </ul>
 </div>
 
 
+
 <!--- snake -->
 <div align="center">
-  <img  src="dist/github-snake-dark.svg"
-       alt="snake" /></a>
+  <img src="dist/github-snake-dark.svg" alt="snake" />
+  <p style="font-style: italic; color: #555;">Check out my GitHub contributions via the snake game gif!</p>
 </div>
+
 
 
 <!--h2 without bottom border-->
