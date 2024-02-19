@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/onkar69483/onkar69483/blob/output/github-contribution-grid-snake.svg"
+  <img  src="dist/github-snake-dark.svg"
        alt="snake" /></a>
 </div>
 
