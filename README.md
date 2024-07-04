@@ -28,7 +28,7 @@
 <!--Intro start-->
 -  Visit my Portolio website https://onkar69483.github.io/Portfolio/ brought to life by [Sachin Mhetre](https://github.com/Sachin-Mhetre) 
 
-- 🎓 Second-year CS student at SIT Pune
+- 🎓 Third-year CS student at SIT Pune
 
 - 💻 Exploring full-stack development
   
