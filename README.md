@@ -5,9 +5,6 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <div style="text-align: center;">
-      <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture>
-    </div>
     <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1></summary>
   </ul>
 </div>
