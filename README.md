@@ -2,17 +2,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Onkar Mendhapurkar</h1></summary>
   </ul>
 </div>
 
-<!--- snake -->
+<!-- Snake contribution heatmap -->
 <div align="center">
-  <img src="dist/github-snake-dark.svg" alt="snake" />
-  <p style="font-style: italic; color: #555;">Check out my GitHub contributions via the snake game gif!</p>
+  <img src="dist/github-snake-dark.svg" alt="Snake Game GitHub Contribution Heatmap" />
+  <p style="font-style: italic; color: #555;">My GitHub journey visualized as a playful snake, showcasing my contributions throughout the year!</p>
 </div>
 
 <!--h2 without bottom border-->
