@@ -22,7 +22,7 @@
 </div>
 
 <!--Intro start-->
--  Visit my Portolio website https://onkar69483.github.io/Portfolio/ brought to life by [Sachin Mhetre](https://github.com/Sachin-Mhetre) 
+-  Visit my Portolio website [https://onkarmendhapurkar.com](https://onkarmendhapurkar.vercel.app)
 
 - 🎓 Third-year CS student at SIT Pune
 
