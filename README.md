@@ -89,7 +89,7 @@
   </a>
 </p>
 
-### 🔧 Operating Systems & Hardware
+### 🔧 Operating Systems, Hardware & Other tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,mint,ubuntu,bash,arduino,raspberrypi,md,latex&perline=8" />
