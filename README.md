@@ -71,30 +71,34 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+      Technologies That I Know 👨🏻‍💻
+    </h2></summary>
   </ul>
 </div>
 
 ### 🖥️ Programming & Web Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,bootstrap,tailwind,react,nextjs,svelte,express,materialui,figma&perline=16" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,bootstrap,tailwind,react,nextjs,svelte,express,materialui,figma,redux,django,replit&perline=16" />
   </a>
 </p>
 
 ### 🗄️ Databases & Development Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma,firebase,git,github,postman,vercel,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma,firebase,git,github,postman,vercel,vite,anaconda&perline=10" />
   </a>
 </p>
 
 ### 🔧 Operating Systems, Hardware & Other tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mint,ubuntu,bash,arduino,raspberrypi,md,latex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=linux,mint,ubuntu,bash,arduino,raspberrypi,md,latex,opencv&perline=9" />
   </a>
 </p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
